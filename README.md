@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jimin's%20Github&fontSize=90" />
 </div>
 <div align=center>
-Welcome to my Github Page
+<h3>Welcome to my Github Page</h3>
 </div>
-<br/><br/>
+<br/>
 <div align=center>
 <h3>
 📚Tech Stack📚
