@@ -4,8 +4,9 @@
 <div align=center>
 <h3>Welcome to my Github Page</h3>
 <br/>
-(http://mazassumnida.wtf/api/mini/generate_badge?boj=kjm001225)](https://solved.ac/kjm001225)
 </div>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjm001225)](https://solved.ac/kjm001225)
 <hr>
 <br/>
 <div align=center>
