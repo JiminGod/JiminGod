@@ -11,8 +11,8 @@ Welcome to My Github Page!
 <br/>
 <br/>
 <div align=center>
-<h2>
+<h3>
 📚Tech Stack📚
-</h2>
+</h3>
 </div>
 
