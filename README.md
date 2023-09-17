@@ -3,6 +3,11 @@
 </div>
 
 <div align=center>
+Hi!
+Welcome to My Github Page!
+</div>
+
+<div align=center>
 📚Tech Stack📚
 </div>
 
