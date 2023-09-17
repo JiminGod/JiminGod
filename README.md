@@ -3,6 +3,9 @@
 </div>
 <div align=center>
 <h3>Welcome to my Github Page</h3>
+<br/>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjm001225)](https://solved.ac/kjm001225)
+
 </div>
 <hr>
 <br/>
