@@ -4,8 +4,8 @@
 <div align=center>
 <h3>Welcome to my Github Page</h3>
 </div>
-<br/>
 <hr>
+<br/>
 <div align=center>
 <h3>
 📚Tech Stack📚
