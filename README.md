@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-Hi!
+✋Hi!✋<br/>
 Welcome to My Github Page!
 </div>
 <br/>
