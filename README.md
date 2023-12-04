@@ -1,8 +1,3 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jimin's%20Github&fontSize=90" />
-</div>
-<div align=center>
-<h3>Welcome to my Github Page!</h3>
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjm001225)](https://solved.ac/kjm001225)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminGod%2Fhit-counter&count_bg=%238A2BE2&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
