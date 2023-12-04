@@ -1,6 +1,4 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jimin's%20Github&fontSize=90" />
-</div>
+
 <div align=center>
 <h3>Welcome to my Github Page!</h3>
 
